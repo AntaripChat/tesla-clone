@@ -43,7 +43,7 @@ const Warp = styled.div`
     flex-direction:column;
     justify-content:space-between;
     align-items:center;
-    background-image:${props =>`url("/images/${props.bgImg}")`}
+    background-image:${props =>`url("/public/images/${props.bgImg}")`}
 
 `
 const ItemText = styled.div`
