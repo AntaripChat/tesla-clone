@@ -38,7 +38,7 @@ const Warp = styled.div`
     background-size: cover;
     background-position:center;
     background-repeat:no-repeat;
-    background-image:url('/images/model-s.jpg');
+    //background-image:url('/images/model-s.jpg');
     display:flex;
     flex-direction:column;
     justify-content:space-between;
